@@ -1,0 +1,8 @@
+[ {
+  "id" : 1,
+  "name" : "рпр",
+  "position" : "т",
+  "salary" : 22222.0,
+  "hireDate" : [ 2025, 6, 12 ],
+  "workExperienceYears" : 0
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "id" : 1,
+  "name" : "вм",
+  "cells" : [ {
+    "id" : 1,
+    "capacity" : 234567,
+    "products" : [ {
+      "id" : 1,
+      "name" : "мкик",
+      "price" : 2222.0,
+      "category" : "аипам",
+      "quantity" : 12000
+    } ],
+    "responsibleEmployee" : {
+      "id" : 1,
+      "name" : "рпр",
+      "position" : "т",
+      "salary" : 22222.0,
+      "hireDate" : [ 2025, 6, 12 ],
+      "workExperienceYears" : 0
+    },
+    "freeSpace" : 234566
+  } ],
+  "responsibleEmployee" : {
+    "id" : 1,
+    "name" : "рпр",
+    "position" : "т",
+    "salary" : 22222.0,
+    "hireDate" : [ 2025, 6, 12 ],
+    "workExperienceYears" : 0
+  },
+  "productsInfo" : [ {
+    "id" : 1,
+    "name" : "мкик",
+    "price" : 2222.0,
+    "category" : "аипам",
+    "quantity" : 12000
+  } ]
+} ]

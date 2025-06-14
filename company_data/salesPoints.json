@@ -1,0 +1,22 @@
+[ {
+  "id" : 1,
+  "name" : "пкавма",
+  "availableProducts" : [ {
+    "id" : 1,
+    "name" : "мкик",
+    "price" : 2222.0,
+    "category" : "аипам",
+    "quantity" : 345
+  } ],
+  "responsibleEmployee" : {
+    "id" : 1,
+    "name" : "рпр",
+    "position" : "т",
+    "salary" : 22222.0,
+    "hireDate" : [ 2025, 6, 12 ],
+    "workExperienceYears" : 0
+  },
+  "revenue" : -345000.0,
+  "open" : true,
+  "profit" : -345000.0
+} ]
